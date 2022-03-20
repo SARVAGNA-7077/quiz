@@ -95,13 +95,6 @@
             },
             correctAnswer: "b"
         }, {
-            question: "<h1>MEDIUM</h1>",
-            answers: {
-                a: "Next",
-                b: "Back"
-            },
-            correctAnswer: "a"
-        }, {
             question: "Do All HTML tags have ending tags?",
             answers: {
                 a: "No",
