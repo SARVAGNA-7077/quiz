@@ -52,6 +52,26 @@
             },
             correctAnswer: "a"
         }, {
+            question: "What is the ending extension for HTML?",
+            answers: {
+                a: ".html",
+                b: ".hypertext",
+                c: "None",
+                d: "All Of Above"
+            },
+            correctAnswer: "a"
+        }, {
+            question: "What is the oldest website in the world?",
+            answers: {
+                a: "http://info.cern.ch",
+                b: "https://www.google.com",
+                c: "https://www.vortex.com/",
+                d: "All Of Above"
+            },
+            correctAnswer: "a"
+        }, 
+             
+             {
             question: "How to add a ordered list in HTML?",
             answers: {
                 a: "ol",
