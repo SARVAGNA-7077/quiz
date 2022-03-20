@@ -1,0 +1,10 @@
+Open home.html to see the home page and others too.... 
+ you can see the source code and other stuff there. 
+ after that.. there will be some link to open quiz.. open it and you can see the quiz.
+ 
+ see the source code in-  https://github.com/SARVAGNA-7077/quiz/new/main 
+ 
+ download all the files and then run it.
+ the quiz is made by 100% me and no other source is used.
+ 
+ i used BootStrap to in making the website for some additional css
