@@ -79,7 +79,8 @@
             answers: {
                 a: "Next",
                 b: "Back"
-            }
+            },
+            correctAnswer: "a"
         }, {
             question: "Do All HTML tags have ending tags?",
             answers: {
